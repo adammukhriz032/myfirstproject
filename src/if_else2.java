@@ -10,3 +10,4 @@ public class if_else2 {
         
     }
 }
+//if else untuk perbandingan untuk nombor

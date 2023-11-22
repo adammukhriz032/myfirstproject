@@ -15,3 +15,4 @@ public class switchstatement {
         }
     }
 }
+//switch statement untuk perbandingan untuk condition/situasi
